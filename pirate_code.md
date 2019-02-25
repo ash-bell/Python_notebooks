@@ -33,7 +33,7 @@ You are responsible for your own data. Get a system in place to regularly back u
 ## Be Inspiring
 You are the next generation of scientists. Take any opportunity to tell the world about the cool science you are doing. Present	at and	attend research conferences. Engage a wider audience with your research through online seminars, Soapbox Science events etc.
 
-## Responsibilities<sup>
+## Responsibilities
 
 As a **member** of the Temperton lab, you	are	expected to:
 
