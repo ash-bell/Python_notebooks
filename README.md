@@ -16,3 +16,9 @@
 1b. `git rm <you files>` removes any files you no longer want to upload from the github repository but NOT your local machine
 2. `git commit -m "<my message>"` Any message you want to include with the upload. I usually include the date
 3. `git commit origin master` This confirms the changes you want to upload
+
+#If you already have a repository
+1. git clone <repo URL>
+2. git add; git commit -m ... etc
+3. git push origin master
+
